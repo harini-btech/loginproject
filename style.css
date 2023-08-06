@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+
+body{
+    background: url(https://w0.peakpx.com/wallpaper/42/267/HD-wallpaper-nature-scenery-scenery-nature.jpg);
+     background-size: cover;
+}
+
+.login-form{
+    width:350px;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    position: absolute;
+    color: chocolate;
+}
+
+.login-form h1{
+    font-size: 40px;
+    text-align: center;
+    text-transform: capitalize;
+    margin:40px 0;
+}
+
+.login-form p{
+            font-size: 15px;
+            margin:10px 0;
+}
+
+.login-form input{
+    font-size: 19px;
+    width:100%;
+    padding: 20px 10px;
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+}
+
+.login-form button{
+    font-size: 19px;
+    font-weight: bold;
+    width:50%;
+    margin: 20px 0;
+    padding: 20px 10px;
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+}
+

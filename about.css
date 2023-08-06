@@ -1,0 +1,16 @@
+*{
+    padding:0;
+    margin:0;
+    font-family: fantasy;
+}
+
+body{
+    background: url(https://images.unsplash.com/photo-1475150409808-de5542258c19?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3wxMDM0NjUwfHxlbnwwfHx8fHw%3D&w=1000&q=80);
+    background-size: cover;
+    text-align: center;
+    font-size: 15px;
+    margin:230px 0;
+}
+
+
+

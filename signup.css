@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+}
+
+body{
+    background: url(https://img.freepik.com/free-photo/empty-wooden-dock-lake-during-breathtaking-sunset-cool-background_181624-27469.jpg?w=826&t=st=1691339251~exp=1691339851~hmac=7dac5abbfe56e262fc68eb7016a7ac79cf5defbe1ea7dc7aef23d5d944cdd924);
+    background-size: cover
+}
+
+.loginform {
+    width:350px;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    position: absolute;
+    color: chocolate;
+}
+
+.loginform h1{
+    font-size: 40px;
+    text-align: center;
+    text-transform: capitalize;
+    margin:40px 0;
+}
+
+.loginform p{
+            font-size: 15px;
+            margin:10px 0;
+}
+
+.loginform input{
+    font-size: 19px;
+    width:100%;
+    padding: 20px 10px;
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+}
+
+.loginform button{
+    font-size: 19px;
+    font-weight: bold;
+    width:50%;
+    margin: 20px 0;
+    padding: 20px 10px;
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+}
+
